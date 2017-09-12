@@ -1,3 +1,3 @@
 # [Portfolio Site](https://spookybit.github.io/portfolio/)
 
-Portfolio for spookybit.
+Portfolio site for spookybit.
